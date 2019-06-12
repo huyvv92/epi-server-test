@@ -1,0 +1,14 @@
+environment requirements: 
+java 1.8
+maven 3.x
+
+==============================
+run program: java -jar epi-server-test.jar
+
+==============================
+build jar file: mvn clean install
+build jar file without run Unit test: mvn clean install -DskipTests
+only run Unit test: mvn test
+
+=============================
+contact me: huyvv92@gmail.com, skype: huyvv92@hotmail.com
